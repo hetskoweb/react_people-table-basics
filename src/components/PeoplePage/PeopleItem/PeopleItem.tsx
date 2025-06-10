@@ -3,7 +3,6 @@ import { Person } from '../../../types';
 import { PersonLink } from '../PersonLink/PersonLink';
 
 type Props = {
-  people?: Person[];
   person: Person;
 };
 
